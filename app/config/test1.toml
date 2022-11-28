@@ -1,0 +1,5 @@
+[paths]
+base_path = "/home/roshan.hada"
+
+[systems.ambulatory_ehr1]
+db_name = "ambulatory_ehr1"
